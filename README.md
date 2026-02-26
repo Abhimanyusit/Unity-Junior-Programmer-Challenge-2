@@ -92,3 +92,11 @@ This code serves as a foundation for learning. You can:
 No license is specified; use according to your own judgement. If you plan to share or publish, you may add an explicit license file.
 
 ---
+
+## Example Output
+
+![challenge2 image](game.png)
+
+## Gameplay Video
+
+[Watch Gameplay Here](https://drive.google.com/file/d/150XKjvV9H-brqwhWU9tv9rG9IuWAbGAN/view?usp=sharing)
